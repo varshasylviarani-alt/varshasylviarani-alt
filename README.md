@@ -65,6 +65,16 @@ An Information Systems student focused on systems analysis, database management,
 
 ---
 
+### 📜 Certifications & Achievements
+* **IT Bootcamp Certificate & 1st Place Winner** (TrashReport Project)
+* **Intellectual Property Right (HAKI)** Registration for TrashReport
+* **UI/UX Design Workshop** Certificate
+* **Database Testing** Seminar Certificate
+* **Mandatory Entrepreneur Seminar** Certificate
+* 🔗 **[View All Verified Certificates (Single PDF)](https://drive.google.com/file/d/1q0id2Xry8wArgI3bfYP42sHw_h0vlK1e/view?usp=sharing)**
+
+---
+
 ### 📫 Connect with Me
 💼 **LinkedIn:** [linkedin.com/in/varshasylviarani](https://www.linkedin.com/in/varshasylviarani)  
 ✉️ **Email:** varshasylviarani@gmail.com
